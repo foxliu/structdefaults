@@ -1,3 +1,3 @@
-module github.com/foxliu/structdefaults
+module github.com/foxliu
 
 go 1.20
