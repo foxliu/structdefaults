@@ -1,4 +1,4 @@
-package structdefaults
+package main
 
 import (
 	"encoding/json"
