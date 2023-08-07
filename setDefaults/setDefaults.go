@@ -1,4 +1,4 @@
-package main
+package setDefaults
 
 import (
 	"encoding/json"
